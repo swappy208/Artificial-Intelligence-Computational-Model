@@ -1,2 +1,3 @@
-# Artificial-Intelligence-Computational-Model
-Artificial Intelligence Computational Prediction Model
+# Machine Learning using Python
+
+## TensorFlow, Pandas, Matlab
