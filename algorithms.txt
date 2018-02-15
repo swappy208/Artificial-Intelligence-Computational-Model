@@ -1,0 +1,24 @@
+B
+1. 
+
+max = A[0]
+min = A[0]
+
+for x in range(1,n):
+    if A[x]>max:
+        max = A[x]
+    if A[x]<min:
+        min = A[x]
+   
+print max, min
+
+2.
+
+for x in range(1,n): ##bubble sort
+    for y in range(0, n-1):
+        if A[x]<A[y]:
+            swap A[x],A[y]
+          
+max = A[n]
+min = A[0]
+print max, min
